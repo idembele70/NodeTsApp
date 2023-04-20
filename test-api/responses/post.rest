@@ -1,0 +1,8 @@
+### POST
+
+POST http://localhost:3000/api/data
+
+{
+  "name":"ikd",
+  "age": 23
+}
